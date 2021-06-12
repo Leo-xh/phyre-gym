@@ -1,7 +1,0 @@
-README.md
-setup.py
-phyre_gym.egg-info/PKG-INFO
-phyre_gym.egg-info/SOURCES.txt
-phyre_gym.egg-info/dependency_links.txt
-phyre_gym.egg-info/requires.txt
-phyre_gym.egg-info/top_level.txt
