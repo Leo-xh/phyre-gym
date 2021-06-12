@@ -1,0 +1,3 @@
+[submodule "phyre"]
+	path = phyre
+	url = git@github.com:facebookresearch/phyre.git
